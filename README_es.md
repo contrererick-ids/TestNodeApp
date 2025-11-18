@@ -190,4 +190,4 @@ Este proyecto es de código abierto y está disponible para fines educativos.
 
 ## 🌐 Traducciones
 
-📖 **[Read this in English (Leer en Inglés)](./README_en.md)**
+📖 **[Read this in English (Leer en Inglés)](./README.md)**
