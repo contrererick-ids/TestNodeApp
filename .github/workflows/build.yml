@@ -1,6 +1,6 @@
 on: push
 jobs:
-  buid-node:
+  build-node:
     runs-on: ubuntu-latest
     container: node:16
     steps:
