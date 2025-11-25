@@ -1,0 +1,7 @@
+on: push
+jobs:
+  build-node:
+    runs-on: ubuntu-latest
+    container: python:3.9
+    steps:
+      - run: python --version
